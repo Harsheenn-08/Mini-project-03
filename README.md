@@ -15,5 +15,4 @@
 - Set = {-12, -3, -6, 7, 2, -2, 6, 3, 9, -7, -5, -8, 1, 11, -9, -4}
 ---
 Solution
-<img
-src="https://github.com/Harsheenn-08/Assignments/blob/main/Screenshot%202025-06-19%20004448.png" width"50%" height="50%">
+![Screenshot 2025-06-19 004448](https://github.com/user-attachments/assets/70e63e83-edf1-4f85-9634-f18bea1baf49)
